@@ -6,7 +6,7 @@ A basic calculator web application built using Angular 16 and styled with Tailwi
 
 ![Calculator Preview](https://github.com/suryanshsingh2001/Angular-Calculator/blob/main/src/screenshots/Screenshot%20(94).png?raw=true)
 
-[Website Link](https://angular-calculator-2cc80.web.app/) 
+[Try Now](https://angular-calculator-2cc80.web.app/) 
 
 ## In a Nutshell ✨
 
