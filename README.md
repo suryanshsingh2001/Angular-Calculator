@@ -9,14 +9,14 @@ A basic calculator web application built using Angular 16 and styled with Tailwi
 
 [Website Link](https://angular-calculator-2cc80.web.app/) 
 
-## In a Nutshell
+## In a Nutshell ✨
 
 - Addition, subtraction, multiplication, and division operations.
 - Responsive design thanks to Angular 16 and Tailwind CSS.
 - Easy deployment with Firebase hosting.
 - Docker containerization for efficient deployment.
 
-## Installation
+## Installation  🛠️
 
 1. Clone the repository:
 
@@ -42,7 +42,7 @@ ng serve
 
 4. Open your browser and visit ```http://localhost:4200``` to see the calculator in action.
 
-## Deployment
+## Deployment 🌐
 ### Firebase Hosting
 1. Make sure you have the Firebase CLI installed:
 
@@ -82,7 +82,7 @@ docker build --pull --rm -f "Dockerfile" -t angularcalculator:latest "."
 docker run --rm -d -p 80:80/tcp angularcalculator:latest 
 ```
 
-## Contributions
+## Contributions 🤝
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
