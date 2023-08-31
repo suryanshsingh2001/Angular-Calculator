@@ -2,7 +2,6 @@
 
 <p align = 'justify'>
 A basic calculator web application built using Angular 16 and styled with Tailwind CSS. The app performs arithmetic operations and showcases the integration of frontend technologies. It's also deployed using Firebase hosting and Dockerized for easy deployment.
-
 </p>
 
 ![Calculator Preview](https://github.com/suryanshsingh2001/Angular-Calculator/blob/main/src/screenshots/Screenshot%20(94).png?raw=true)
