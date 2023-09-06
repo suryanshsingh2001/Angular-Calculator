@@ -1,5 +1,7 @@
 # 🧮 Simple Calculator App
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+<br>
 <p align = 'justify'>
 A basic calculator web application built using Angular 16 and styled with Tailwind CSS. The app performs arithmetic operations and showcases the integration of frontend technologies. It's also deployed using Firebase hosting and Dockerized for easy deployment.
 </p>
